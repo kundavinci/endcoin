@@ -1,3 +1,4 @@
+
 # endcoin
 Just coins to an end.
 
@@ -8,3 +9,4 @@ TODO:
 
 Brainstorming:
 - pyramid scheme to help marketing?
+- it should be possible to add the money supply of any currency. Anytime, but once.
