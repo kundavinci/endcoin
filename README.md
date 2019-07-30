@@ -5,3 +5,6 @@ TODO:
 - get familiar with cryptocurrency technology 
 - create specifications
 - implementation
+
+Brainstorming:
+- pyramid scheme to help marketing?
