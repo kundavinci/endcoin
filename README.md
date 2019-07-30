@@ -1,6 +1,6 @@
 
 # endcoin [END]
-Just coins to an end.
+Just coins to an [end].
 
 TODO:
 - get familiar with cryptocurrency technology 
