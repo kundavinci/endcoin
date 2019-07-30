@@ -1,5 +1,5 @@
 
-# endcoin
+# endcoin [END]
 Just coins to an end.
 
 TODO:
